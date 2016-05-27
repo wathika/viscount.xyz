@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>Avad0re</title>
+    <link href="http://viscount.com/atom.xml" rel="self"/>
+    <link href="http://viscount.com"/>
+    <updated>2016-05-27T00:00:00+5:30</updated>
+    <id></id>
+    <author>
+        <name>Viscount Wathika</name>
+        <email>vcwathika@gmail.com</email>
+    </author>
+
+    
+
+</feed>

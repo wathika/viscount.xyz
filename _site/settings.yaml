@@ -1,0 +1,20 @@
+# voldemort configuration file
+layout_dirs :
+    - layout
+    - include
+
+posts_dir   : posts
+post_url    : "%Y/%m/%d"
+site_dir    : _site
+paginate    : 5
+
+site :
+    name        : "Avad0re"
+    address     : "http://viscount.com"
+    author_name : "Viscount Wathika"
+    author_email: "vcwathika@gmail.com"
+
+deploy :
+    user  : wathika
+    at    : github.com
+    to    : wathika.github.com
