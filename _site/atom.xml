@@ -12,5 +12,19 @@
     </author>
 
     
+    <entry>
+        <title>Moving From Github Pages</title>
+        <link href="http://viscount.com/2015/09/02/moving-from-gthub-pages"/>
+        <updated>2015-09-02T00:00:00+5:30</updated>
+        <id>http://viscount.com/2015/09/02/moving-from-gthub-pages</id>
+        <content type="html">&lt;p&gt;This is my first blog POST after moving to this website from &lt;a href="https://pages.github.com/"&gt;Github Pages&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;So from the moment I learnt to code, I guess I was lucky enough to know about &lt;a href="https://pages.github.com/"&gt;Github Pages&lt;/a&gt; and I immediately spun up
+a one-page personal website and that was the coolest thing I had done among my friends. It's a mixture of &lt;a href="https://git-scm.com/"&gt;Git&lt;/a&gt;'s version control
+and &lt;a href="https://jekyllrb.com"&gt;Jekyll&lt;/a&gt; and I think it's the best way to maintain code and a simple blog.&lt;/p&gt;
+&lt;p&gt;This website is a layout fork of Tate Johnson's site with minor modifications.
+Stay tuned for interesting stuff.&lt;/p&gt;
+&lt;p&gt;Viscount..&lt;/p&gt;</content>
+    </entry>
+    
 
 </feed>
